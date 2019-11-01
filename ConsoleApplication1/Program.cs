@@ -208,9 +208,6 @@ namespace ConsoleApplication1
 
                                 Console.WriteLine("\n");
                             }
-                           
-
-
                         }
 
                     }
@@ -267,8 +264,6 @@ namespace ConsoleApplication1
 
                                 Console.WriteLine("\n");
                             }
-
-
 
                         }
                     }
@@ -368,14 +363,7 @@ namespace ConsoleApplication1
                         {
                             Console.Write("Present");
                         }
-
-                          
-
                             Console.WriteLine("\n");
-                        
-
-
-
                     }
                 }
                 Console.WriteLine("Press N to Quit or any other key to continue");
